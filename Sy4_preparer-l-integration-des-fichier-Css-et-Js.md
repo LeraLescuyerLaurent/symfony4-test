@@ -7,7 +7,9 @@ $ composer require symfony/asset
 ##### Dans le dossier public
 *Créer*
     Un dossier dist
-        *Créer*
+        *dans le dossier dist Créer*
         Un dossier js
-            *Créer* 
-            Un dossier css
+        et 
+        Un dossier css
+        et
+        un dossier images
